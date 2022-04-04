@@ -33,3 +33,5 @@
   <a href="https://www.linkedin.com/in/rodrigoluigi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/rodrigoluigi" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" targe="_blank"><a>
 </div>
+
+  ![Snake animation](https://github.com/RodrigoLuigi/RodrigoLuigi/blob/output/github-contribution-grid-snake.svg)
