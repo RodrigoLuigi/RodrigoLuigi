@@ -1,18 +1,18 @@
-### Hi there 👋
+# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Rodrigo Luigi
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## 🚀 About Me
+- 👨‍💻 Never stop learn 
+- 📈 Atualmente estudando `React`, `Typescript` e `Node.Js`
+
+- 🌱 Gosto de natureza
+- 🕹 Gosto de jogos online
+- 🏄 Gosto de praticar esportes
+- 🛹 Skateboarding 4Fun
 
 <div align="center">
   <a href="https://github.com/RodrigoLuigi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLuigi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLuigi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLuigi&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLuigi&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
