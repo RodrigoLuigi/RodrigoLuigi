@@ -36,7 +36,7 @@
 ## 📱 My Contacts
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-luigi)
-  [![ghatsapp](https://img.shields.io/badge/whatsapp-24CA62?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=31983595501)
+  [![ghatsapp](https://img.shields.io/badge/whatsapp-24CA62?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5531983595501)
   [![gmail](https://img.shields.io/badge/digaor@gmail.com-F7F7F7?style=for-the-badge&logo=gmail&logoColor=C6352A)](mailto:digaor@gmail.com) 
 
 
