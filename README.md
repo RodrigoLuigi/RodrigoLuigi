@@ -1,4 +1,11 @@
+<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%413b6b&size=30&center=true&vCenter=true&width=450&lines=I%27m+Rodrigo+Luigi;Fullstack+Web+Developer;Brazilian;Skateboarding+lover" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
+</div>
+
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Rodrigo Luigi
+<img align="right" width="450px" src="https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg?w=2000" alt="" >
 
 #### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 ## 🚀 About Me
