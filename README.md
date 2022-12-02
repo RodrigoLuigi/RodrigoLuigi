@@ -8,9 +8,9 @@
 
 <img  align="right" width="450px" src="./assets/web-dev.png" alt="" >  
 
-<br><br>
 
-#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+
+#### <br> I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 
 ## 🚀 About Me
   👨‍💻 Never stop learn\
