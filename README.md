@@ -6,7 +6,7 @@
 
 <br>
 
-<img  align="right" width="450px" src="./assets/web-dev.png" alt="" >  
+<img  align="right" width="50%" src="./assets/web-dev.png" alt="" >  
 
 <br>
 
