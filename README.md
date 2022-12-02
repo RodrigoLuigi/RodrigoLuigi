@@ -1,14 +1,12 @@
-<div style="display: flex; align-items: center; justify-content: center;" align="center">
+<div align="center">
   <img  width="100px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="" >  
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D64FFFF&center=true&vCenter=true&width=480&lines=I'm+Rodrigo+Luigi;Brazilian;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=2D64FFFF&center=true&vCenter=true&width=500&lines=Hi,+Welcome+to+my+profile!;I'm+Rodrigo+Luigi;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
 </div>
 
-<br>
+#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 
-### <img  align="right" width="450px" src="./assets/web-dev.png" alt="" >  
-
-#### <br> I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+<img  align="right" width="350px" src="./assets/web-dev.png" alt="Imagem de um notebook com efeitos de luzes neon"> 
 
 ## 🚀 About Me
   👨‍💻 Never stop learn\
