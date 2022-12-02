@@ -14,8 +14,7 @@
   🏄 I like to play sports\
   🛹 I love skateboarding\
   ⚡ Fun fact: volunteer forest brigade 👨‍🚒🔥
-
-<img  align="right" width="350px" src="./assets/web-dev.png" alt="Imagem de um notebook com efeitos de luzes neon"> 
+  <img  align="right" width="350px" src="./assets/web-dev.png" alt="Imagem de um notebook com efeitos de luzes neon"> 
  
  <br>
 
