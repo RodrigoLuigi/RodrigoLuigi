@@ -6,8 +6,6 @@
 
 #### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 
-<img  align="right" width="350px" src="./assets/web-dev.png" alt="Imagem de um notebook com efeitos de luzes neon"> 
-
 ## 🚀 About Me
   👨‍💻 Never stop learn\
   📈 I'm currently studying `React`, `Typescript` and `Node.Js`\
@@ -16,6 +14,8 @@
   🏄 I like to play sports\
   🛹 I love skateboarding\
   ⚡ Fun fact: volunteer forest brigade 👨‍🚒🔥
+
+<img  align="right" width="350px" src="./assets/web-dev.png" alt="Imagem de um notebook com efeitos de luzes neon"> 
  
  <br>
 
