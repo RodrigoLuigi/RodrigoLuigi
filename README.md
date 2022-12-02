@@ -1,17 +1,17 @@
-
-
 <div style="display: flex; align-items: center; justify-content: center;" align="center">
- <img  width="100px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="" >  
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=173280FF&center=true&vCenter=true&width=480&lines=I'm+Rodrigo+Luigi;Brazilian;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
- 
+  <img  width="100px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="" >  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D64FFFF&center=true&vCenter=true&width=480&lines=I'm+Rodrigo+Luigi;Brazilian;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
 </div>
 
 <br>
 
-  <img  align="right" width="450px" src="./assets/web-dev.png" alt="" >  
+<img  align="right" width="450px" src="./assets/web-dev.png" alt="" >  
+
+<br>
 
 #### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+
 ## 🚀 About Me
   👨‍💻 Never stop learn\
   📈 I'm currently studying `React`, `Typescript` and `Node.Js`\
