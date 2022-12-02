@@ -1,15 +1,11 @@
+<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
-
-<div style="display: flex; align-items: center; justify-content: center;" align="center">
-
- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=DAA520&center=true&vCenter=true&width=480&lines=I'm+Rodrigo+Luigi;Brazilian;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
-
-  <img  width="100px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="" >  
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%413b6b&size=30&center=true&vCenter=true&width=450&lines=I%27m+Rodrigo+Luigi;Fullstack+Web+Developer;Brazilian;Skateboarding+lover" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
 </div>
 
-<br>
-
-  <img  align="right" width="300px" src="./assets/web-dev.png" alt="" >  
+# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Rodrigo Luigi
+<img align="right" width="450px" src="https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg?w=2000" alt="" >
 
 #### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 ## 🚀 About Me
@@ -38,10 +34,10 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 ## ⚙ GitHub Analytics
-<div align="center">
+<div align="left">
   <a href="https://github.com/RodrigoLuigi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLuigi&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLuigi&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLuigi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLuigi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 📱 My Contacts
@@ -49,3 +45,6 @@
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-luigi)
   [![ghatsapp](https://img.shields.io/badge/whatsapp-24CA62?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5531983595501)
   [![gmail](https://img.shields.io/badge/digaor@gmail.com-F7F7F7?style=for-the-badge&logo=gmail&logoColor=C6352A)](mailto:digaor@gmail.com) 
+
+
+  ![Snake animation](https://github.com/RodrigoLuigi/RodrigoLuigi/blob/output/github-contribution-grid-snake.svg)
