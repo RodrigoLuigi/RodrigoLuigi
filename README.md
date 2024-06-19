@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=2D64FFFF&center=true&vCenter=true&width=500&lines=Hi,+Welcome+to+my+profile!;I'm+Rodrigo+Luigi;Fullstack+Web+Developer;Skateboard+lover)](https://git.io/typing-svg)
 </div>
 
-#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+#### I'm a Full-Stack Developer from [Florianópolis - SC]([https://goo.gl/maps/hhVumtA17UZT7CFS6](https://www.google.com/maps/place/Florian%C3%B3polis,+SC)), `open to work!`
 
 ## 🚀 About Me
   👨‍💻 Never stop learn\
